@@ -1,0 +1,488 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1130" viewBox="0 0 1920 1130" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowZGM2Mjk4Ny1hMzdlLTRlOWEtYmFkZC0xM2I0NzRjMTg1OGIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJ6e2S85KAn8xdO92LwjFgYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiZWRmOGNmNi04OWRiLTQzYzktODA3OC03MzRiZDczZDFkM2ZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoX1+AahvhZ46bPT85+GCj5gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggReSUtlGED+j/WO7g31dR7bZpXrzpnOO5DUIqQpPk38+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaI6t4jQ7k4sWxDgh1mWFNlcAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDy4Q3/d4OSR1tslKbQCWnlti2Po/EHAIZdTjnc3tqNyGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiaZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjBkYzYyOTg3LWEzN2UtNGU5YS1iYWRkLTEzYjQ3NGMxODU4Yi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjUxNDE5OTZlLWIwYzQtNGRlOC1iOThkLTU4MjNlYmQ1Mjc1MnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBF5JS2UYQP6P9Y7uDfV1HttmlevOmc47kNQipCk+Tfz6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggYGnsVVGtvzQLRGAQFH/NRjbJmI9okCHqOuP30ZrY3zKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggK4NiTAcgOr474up+4D4yJ9O6wBI98lrhoUMgWMhGLet0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIVoSHXUrcIeXiYixEXuDo65+V6Ki/Q7nY7rj29dCpOG2GSYZo4TQmzhFS/viJK0wOd+EupSsjUAIQQeNAZipwU=</c2pa:manifest></metadata>
+<style>
+text { font-family: "Liberation Sans", Arial, Helvetica, sans-serif; font-size: 12px; fill: #000; }
+.ent { font-weight: bold; }
+.typ { fill: #333; }
+.box { fill: #FFFFE6; stroke: #000; stroke-width: 1; }
+.leg { fill: #FFFFFF; stroke: #000; stroke-width: 1; }
+.sep { stroke: #000; stroke-width: 1; }
+.rel { fill: none; stroke: #000; stroke-width: 1; stroke-dasharray: 6 4; }
+.sym { stroke: #000; stroke-width: 1.2; }
+.circ { fill: #fff; stroke: #000; stroke-width: 1.2; }
+.tit { font-size: 20px; font-weight: bold; }
+.sub { font-size: 12px; fill: #444; }
+</style>
+<rect width="1920" height="1130" fill="#fff"/>
+<text x="40" y="38" class="tit">MER — Sistema de Gestão de Pesquisas por Questionários</text>
+<text x="40" y="58" class="sub">Modelo lógico · Notação IE · Projeto Integrador I — ADS · Fatec Lins · 2026</text>
+<polyline points="270,685 360,685" class="rel"/>
+<polyline points="270,140 360,140" class="rel"/>
+<polyline points="590,665 630,665 630,250 590,250" class="rel"/>
+<polyline points="530,278 530,390" class="rel"/>
+<polyline points="530,650 530,510" class="rel"/>
+<polyline points="590,140 680,140" class="rel"/>
+<polyline points="910,140 1000,140" class="rel"/>
+<polyline points="1230,140 1320,140" class="rel"/>
+<polyline points="1550,140 1640,140" class="rel"/>
+<polyline points="850,182 850,390" class="rel"/>
+<polyline points="590,690 655,690 655,480 680,480" class="rel"/>
+<polyline points="850,510 850,580" class="rel"/>
+<polyline points="1170,214 1170,390" class="rel"/>
+<polyline points="1230,440 1320,440" class="rel"/>
+<polyline points="1490,230 1490,390" class="rel"/>
+<polyline points="1755,198 1755,465 1550,465" class="rel"/>
+<polyline points="460,650 460,590 155,590 155,526" class="rel"/>
+<polyline points="360,245 210,245 210,390" class="rel"/>
+<polyline points="420,786 420,850 210,850 210,910" class="rel"/>
+<polyline points="1550,945 1640,945" class="rel"/>
+<polyline points="590,740 1835,740 1835,910" class="rel"/>
+<polyline points="1320,945 1230,945" class="rel"/>
+<polyline points="590,765 1170,765 1170,910" class="rel"/>
+<polyline points="570,786 570,910" class="rel"/>
+<polyline points="590,945 680,945" class="rel"/>
+<text x="40" y="645" class="ent">PERFIL</text>
+<rect x="40" y="650" width="230" height="72" class="box"/>
+<text x="46" y="668" class="att">id_perfil</text>
+<text x="103.359375" y="668" class="typ">: INT</text>
+<line x1="40" y1="678" x2="270" y2="678" class="sep"/>
+<text x="46" y="696" class="att">nome</text>
+<text x="103.359375" y="696" class="typ">: VARCHAR(40)</text>
+<text x="46" y="712" class="att">descricao</text>
+<text x="103.359375" y="712" class="typ">: VARCHAR(200)</text>
+<text x="360" y="645" class="ent">USUARIO</text>
+<rect x="360" y="650" width="230" height="136" class="box"/>
+<text x="366" y="668" class="att">id_usuario</text>
+<text x="448.03125" y="668" class="typ">: INT</text>
+<line x1="360" y1="678" x2="590" y2="678" class="sep"/>
+<text x="366" y="696" class="att">id_perfil (FK)</text>
+<text x="448.03125" y="696" class="typ">: INT</text>
+<text x="366" y="712" class="att">nome</text>
+<text x="448.03125" y="712" class="typ">: VARCHAR(100)</text>
+<text x="366" y="728" class="att">email</text>
+<text x="448.03125" y="728" class="typ">: VARCHAR(120)</text>
+<text x="366" y="744" class="att">senha_hash</text>
+<text x="448.03125" y="744" class="typ">: CHAR(64)</text>
+<text x="366" y="760" class="att">ativo</text>
+<text x="448.03125" y="760" class="typ">: BOOLEAN</text>
+<text x="366" y="776" class="att">data_cadastro</text>
+<text x="448.03125" y="776" class="typ">: DATETIME</text>
+<text x="40" y="105" class="ent">CAMPUS</text>
+<rect x="40" y="110" width="230" height="72" class="box"/>
+<text x="46" y="128" class="att">id_campus</text>
+<text x="110.03125" y="128" class="typ">: INT</text>
+<line x1="40" y1="138" x2="270" y2="138" class="sep"/>
+<text x="46" y="156" class="att">nome</text>
+<text x="110.03125" y="156" class="typ">: VARCHAR(80)</text>
+<text x="46" y="172" class="att">cidade</text>
+<text x="110.03125" y="172" class="typ">: VARCHAR(60)</text>
+<text x="360" y="105" class="ent">PESQUISA</text>
+<rect x="360" y="110" width="230" height="168" class="box"/>
+<text x="366" y="128" class="att">id_pesquisa</text>
+<text x="456.6875" y="128" class="typ">: INT</text>
+<line x1="360" y1="138" x2="590" y2="138" class="sep"/>
+<text x="366" y="156" class="att">id_campus (FK)</text>
+<text x="456.6875" y="156" class="typ">: INT</text>
+<text x="366" y="172" class="att">id_usuario (FK)</text>
+<text x="456.6875" y="172" class="typ">: INT</text>
+<text x="366" y="188" class="att">titulo</text>
+<text x="456.6875" y="188" class="typ">: VARCHAR(150)</text>
+<text x="366" y="204" class="att">descricao</text>
+<text x="456.6875" y="204" class="typ">: TEXT</text>
+<text x="366" y="220" class="att">data_inicio</text>
+<text x="456.6875" y="220" class="typ">: DATETIME</text>
+<text x="366" y="236" class="att">data_fim</text>
+<text x="456.6875" y="236" class="typ">: DATETIME</text>
+<text x="366" y="252" class="att">status</text>
+<text x="456.6875" y="252" class="typ">: VARCHAR(20)</text>
+<text x="366" y="268" class="att">data_cadastro</text>
+<text x="456.6875" y="268" class="typ">: DATETIME</text>
+<text x="360" y="385" class="ent">APROVACAO</text>
+<rect x="360" y="390" width="230" height="120" class="box"/>
+<text x="366" y="408" class="att">id_aprovacao</text>
+<text x="462.703125" y="408" class="typ">: INT</text>
+<line x1="360" y1="418" x2="590" y2="418" class="sep"/>
+<text x="366" y="436" class="att">id_pesquisa (FK)</text>
+<text x="462.703125" y="436" class="typ">: INT</text>
+<text x="366" y="452" class="att">id_usuario (FK)</text>
+<text x="462.703125" y="452" class="typ">: INT</text>
+<text x="366" y="468" class="att">decisao</text>
+<text x="462.703125" y="468" class="typ">: VARCHAR(10)</text>
+<text x="366" y="484" class="att">justificativa</text>
+<text x="462.703125" y="484" class="typ">: VARCHAR(500)</text>
+<text x="366" y="500" class="att">data_decisao</text>
+<text x="462.703125" y="500" class="typ">: DATETIME</text>
+<text x="680" y="105" class="ent">CATEGORIA</text>
+<rect x="680" y="110" width="230" height="72" class="box"/>
+<text x="686" y="128" class="att">id_categoria</text>
+<text x="782.703125" y="128" class="typ">: INT</text>
+<line x1="680" y1="138" x2="910" y2="138" class="sep"/>
+<text x="686" y="156" class="att">id_pesquisa (FK)</text>
+<text x="782.703125" y="156" class="typ">: INT</text>
+<text x="686" y="172" class="att">nome</text>
+<text x="782.703125" y="172" class="typ">: VARCHAR(60)</text>
+<text x="1000" y="105" class="ent">QUESTIONARIO</text>
+<rect x="1000" y="110" width="230" height="104" class="box"/>
+<text x="1006" y="128" class="att">id_questionario</text>
+<text x="1104.03125" y="128" class="typ">: INT</text>
+<line x1="1000" y1="138" x2="1230" y2="138" class="sep"/>
+<text x="1006" y="156" class="att">id_categoria (FK)</text>
+<text x="1104.03125" y="156" class="typ">: INT</text>
+<text x="1006" y="172" class="att">titulo</text>
+<text x="1104.03125" y="172" class="typ">: VARCHAR(150)</text>
+<text x="1006" y="188" class="att">status</text>
+<text x="1104.03125" y="188" class="typ">: VARCHAR(20)</text>
+<text x="1006" y="204" class="att">data_criacao</text>
+<text x="1104.03125" y="204" class="typ">: DATETIME</text>
+<text x="1320" y="105" class="ent">PERGUNTA</text>
+<rect x="1320" y="110" width="230" height="120" class="box"/>
+<text x="1326" y="128" class="att">id_pergunta</text>
+<text x="1440.046875" y="128" class="typ">: INT</text>
+<line x1="1320" y1="138" x2="1550" y2="138" class="sep"/>
+<text x="1326" y="156" class="att">id_questionario (FK)</text>
+<text x="1440.046875" y="156" class="typ">: INT</text>
+<text x="1326" y="172" class="att">ordem</text>
+<text x="1440.046875" y="172" class="typ">: SMALLINT</text>
+<text x="1326" y="188" class="att">enunciado</text>
+<text x="1440.046875" y="188" class="typ">: VARCHAR(500)</text>
+<text x="1326" y="204" class="att">tipo</text>
+<text x="1440.046875" y="204" class="typ">: VARCHAR(20)</text>
+<text x="1326" y="220" class="att">obrigatoria</text>
+<text x="1440.046875" y="220" class="typ">: BOOLEAN</text>
+<text x="1640" y="105" class="ent">ALTERNATIVA</text>
+<rect x="1640" y="110" width="230" height="88" class="box"/>
+<text x="1646" y="128" class="att">id_alternativa</text>
+<text x="1742.03125" y="128" class="typ">: INT</text>
+<line x1="1640" y1="138" x2="1870" y2="138" class="sep"/>
+<text x="1646" y="156" class="att">id_pergunta (FK)</text>
+<text x="1742.03125" y="156" class="typ">: INT</text>
+<text x="1646" y="172" class="att">ordem</text>
+<text x="1742.03125" y="172" class="typ">: SMALLINT</text>
+<text x="1646" y="188" class="att">texto</text>
+<text x="1742.03125" y="188" class="typ">: VARCHAR(150)</text>
+<text x="680" y="385" class="ent">LOTE_SENHA</text>
+<rect x="680" y="390" width="230" height="120" class="box"/>
+<text x="686" y="408" class="att">id_lote</text>
+<text x="798.703125" y="408" class="typ">: INT</text>
+<line x1="680" y1="418" x2="910" y2="418" class="sep"/>
+<text x="686" y="436" class="att">id_categoria (FK)</text>
+<text x="798.703125" y="436" class="typ">: INT</text>
+<text x="686" y="452" class="att">id_usuario (FK)</text>
+<text x="798.703125" y="452" class="typ">: INT</text>
+<text x="686" y="468" class="att">quantidade</text>
+<text x="798.703125" y="468" class="typ">: INT</text>
+<text x="686" y="484" class="att">formato_exportacao</text>
+<text x="798.703125" y="484" class="typ">: VARCHAR(5)</text>
+<text x="686" y="500" class="att">data_geracao</text>
+<text x="798.703125" y="500" class="typ">: DATETIME</text>
+<text x="680" y="575" class="ent">SENHA</text>
+<rect x="680" y="580" width="230" height="104" class="box"/>
+<text x="686" y="598" class="att">id_senha</text>
+<text x="772.046875" y="598" class="typ">: INT</text>
+<line x1="680" y1="608" x2="910" y2="608" class="sep"/>
+<text x="686" y="626" class="att">id_lote (FK)</text>
+<text x="772.046875" y="626" class="typ">: INT</text>
+<text x="686" y="642" class="att">senha_hash</text>
+<text x="772.046875" y="642" class="typ">: CHAR(64)</text>
+<text x="686" y="658" class="att">status</text>
+<text x="772.046875" y="658" class="typ">: VARCHAR(15)</text>
+<text x="686" y="674" class="att">data_utilizacao</text>
+<text x="772.046875" y="674" class="typ">: DATETIME</text>
+<text x="1000" y="385" class="ent">PARTICIPACAO</text>
+<rect x="1000" y="390" width="230" height="104" class="box"/>
+<text x="1006" y="408" class="att">id_participacao</text>
+<text x="1120.046875" y="408" class="typ">: INT</text>
+<line x1="1000" y1="418" x2="1230" y2="418" class="sep"/>
+<text x="1006" y="436" class="att">id_questionario (FK)</text>
+<text x="1120.046875" y="436" class="typ">: INT</text>
+<text x="1006" y="452" class="att">status</text>
+<text x="1120.046875" y="452" class="typ">: VARCHAR(15)</text>
+<text x="1006" y="468" class="att">data_inicio</text>
+<text x="1120.046875" y="468" class="typ">: DATETIME</text>
+<text x="1006" y="484" class="att">data_envio</text>
+<text x="1120.046875" y="484" class="typ">: DATETIME</text>
+<text x="1320" y="385" class="ent">RESPOSTA</text>
+<rect x="1320" y="390" width="230" height="120" class="box"/>
+<text x="1326" y="408" class="att">id_resposta</text>
+<text x="1439.375" y="408" class="typ">: INT</text>
+<line x1="1320" y1="418" x2="1550" y2="418" class="sep"/>
+<text x="1326" y="436" class="att">id_participacao (FK)</text>
+<text x="1439.375" y="436" class="typ">: INT</text>
+<text x="1326" y="452" class="att">id_pergunta (FK)</text>
+<text x="1439.375" y="452" class="typ">: INT</text>
+<text x="1326" y="468" class="att">id_alternativa (FK)</text>
+<text x="1439.375" y="468" class="typ">: INT</text>
+<text x="1326" y="484" class="att">valor_escala</text>
+<text x="1439.375" y="484" class="typ">: SMALLINT</text>
+<text x="1326" y="500" class="att">texto_resposta</text>
+<text x="1439.375" y="500" class="typ">: VARCHAR(500)</text>
+<text x="40" y="385" class="ent">EXPORTACAO</text>
+<rect x="40" y="390" width="230" height="136" class="box"/>
+<text x="46" y="408" class="att">id_exportacao</text>
+<text x="142.703125" y="408" class="typ">: INT</text>
+<line x1="40" y1="418" x2="270" y2="418" class="sep"/>
+<text x="46" y="436" class="att">id_usuario (FK)</text>
+<text x="142.703125" y="436" class="typ">: INT</text>
+<text x="46" y="452" class="att">id_pesquisa (FK)</text>
+<text x="142.703125" y="452" class="typ">: INT</text>
+<text x="46" y="468" class="att">formato</text>
+<text x="142.703125" y="468" class="typ">: VARCHAR(5)</text>
+<text x="46" y="484" class="att">periodo_inicio</text>
+<text x="142.703125" y="484" class="typ">: DATE</text>
+<text x="46" y="500" class="att">periodo_fim</text>
+<text x="142.703125" y="500" class="typ">: DATE</text>
+<text x="46" y="516" class="att">data_hora</text>
+<text x="142.703125" y="516" class="typ">: DATETIME</text>
+<text x="40" y="905" class="ent">LOG_AUDITORIA</text>
+<rect x="40" y="910" width="230" height="120" class="box"/>
+<text x="46" y="928" class="att">id_log</text>
+<text x="144.71875" y="928" class="typ">: BIGINT</text>
+<line x1="40" y1="938" x2="270" y2="938" class="sep"/>
+<text x="46" y="956" class="att">id_usuario (FK)</text>
+<text x="144.71875" y="956" class="typ">: INT</text>
+<text x="46" y="972" class="att">acao</text>
+<text x="144.71875" y="972" class="typ">: VARCHAR(200)</text>
+<text x="46" y="988" class="att">entidade_afetada</text>
+<text x="144.71875" y="988" class="typ">: VARCHAR(40)</text>
+<text x="46" y="1004" class="att">endereco_ip</text>
+<text x="144.71875" y="1004" class="typ">: VARCHAR(45)</text>
+<text x="46" y="1020" class="att">data_hora</text>
+<text x="144.71875" y="1020" class="typ">: DATETIME</text>
+<text x="1320" y="905" class="ent">SERVICO</text>
+<rect x="1320" y="910" width="230" height="88" class="box"/>
+<text x="1326" y="928" class="att">id_servico</text>
+<text x="1394.703125" y="928" class="typ">: INT</text>
+<line x1="1320" y1="938" x2="1550" y2="938" class="sep"/>
+<text x="1326" y="956" class="att">nome</text>
+<text x="1394.703125" y="956" class="typ">: VARCHAR(80)</text>
+<text x="1326" y="972" class="att">status</text>
+<text x="1394.703125" y="972" class="typ">: VARCHAR(15)</text>
+<text x="1326" y="988" class="att">uptime_30d</text>
+<text x="1394.703125" y="988" class="typ">: DECIMAL(5,2)</text>
+<text x="1640" y="905" class="ent">VERIFICACAO_SERVICO</text>
+<rect x="1640" y="910" width="230" height="104" class="box"/>
+<text x="1646" y="928" class="att">id_verificacao</text>
+<text x="1734.03125" y="928" class="typ">: INT</text>
+<line x1="1640" y1="938" x2="1870" y2="938" class="sep"/>
+<text x="1646" y="956" class="att">id_servico (FK)</text>
+<text x="1734.03125" y="956" class="typ">: INT</text>
+<text x="1646" y="972" class="att">id_usuario (FK)</text>
+<text x="1734.03125" y="972" class="typ">: INT</text>
+<text x="1646" y="988" class="att">observacao</text>
+<text x="1734.03125" y="988" class="typ">: VARCHAR(500)</text>
+<text x="1646" y="1004" class="att">data_hora</text>
+<text x="1734.03125" y="1004" class="typ">: DATETIME</text>
+<text x="1000" y="905" class="ent">CHAMADO</text>
+<rect x="1000" y="910" width="230" height="184" class="box"/>
+<text x="1006" y="928" class="att">id_chamado</text>
+<text x="1094.046875" y="928" class="typ">: INT</text>
+<line x1="1000" y1="938" x2="1230" y2="938" class="sep"/>
+<text x="1006" y="956" class="att">id_servico (FK)</text>
+<text x="1094.046875" y="956" class="typ">: INT</text>
+<text x="1006" y="972" class="att">id_usuario (FK)</text>
+<text x="1094.046875" y="972" class="typ">: INT</text>
+<text x="1006" y="988" class="att">severidade</text>
+<text x="1094.046875" y="988" class="typ">: VARCHAR(10)</text>
+<text x="1006" y="1004" class="att">descricao</text>
+<text x="1094.046875" y="1004" class="typ">: TEXT</text>
+<text x="1006" y="1020" class="att">email_retorno</text>
+<text x="1094.046875" y="1020" class="typ">: VARCHAR(120)</text>
+<text x="1006" y="1036" class="att">status</text>
+<text x="1094.046875" y="1036" class="typ">: VARCHAR(20)</text>
+<text x="1006" y="1052" class="att">data_abertura</text>
+<text x="1094.046875" y="1052" class="typ">: DATETIME</text>
+<text x="1006" y="1068" class="att">prazo_sla</text>
+<text x="1094.046875" y="1068" class="typ">: DATETIME</text>
+<text x="1006" y="1084" class="att">data_resolucao</text>
+<text x="1094.046875" y="1084" class="typ">: DATETIME</text>
+<text x="360" y="905" class="ent">VERIFICACAO_CONFORMIDADE</text>
+<rect x="360" y="910" width="230" height="72" class="box"/>
+<text x="366" y="928" class="att">id_verif_conf</text>
+<text x="454.03125" y="928" class="typ">: INT</text>
+<line x1="360" y1="938" x2="590" y2="938" class="sep"/>
+<text x="366" y="956" class="att">id_usuario (FK)</text>
+<text x="454.03125" y="956" class="typ">: INT</text>
+<text x="366" y="972" class="att">data_hora</text>
+<text x="454.03125" y="972" class="typ">: DATETIME</text>
+<text x="680" y="905" class="ent">ITEM_CONFORMIDADE</text>
+<rect x="680" y="910" width="230" height="104" class="box"/>
+<text x="686" y="928" class="att">id_item</text>
+<text x="786.6875" y="928" class="typ">: INT</text>
+<line x1="680" y1="938" x2="910" y2="938" class="sep"/>
+<text x="686" y="956" class="att">id_verif_conf (FK)</text>
+<text x="786.6875" y="956" class="typ">: INT</text>
+<text x="686" y="972" class="att">item_verificado</text>
+<text x="786.6875" y="972" class="typ">: VARCHAR(100)</text>
+<text x="686" y="988" class="att">status</text>
+<text x="786.6875" y="988" class="typ">: VARCHAR(15)</text>
+<text x="686" y="1004" class="att">observacao</text>
+<text x="786.6875" y="1004" class="typ">: VARCHAR(300)</text>
+<line x1="278.0" y1="678.0" x2="278.0" y2="692.0" class="sym"/>
+<line x1="284.0" y1="678.0" x2="284.0" y2="692.0" class="sym"/>
+<line x1="344.0" y1="685.0" x2="360.0" y2="693.0" class="sym"/>
+<line x1="344.0" y1="685.0" x2="360.0" y2="685.0" class="sym"/>
+<line x1="344.0" y1="685.0" x2="360.0" y2="677.0" class="sym"/>
+<circle cx="338.0" cy="685.0" r="5" class="circ"/>
+<line x1="278.0" y1="133.0" x2="278.0" y2="147.0" class="sym"/>
+<line x1="284.0" y1="133.0" x2="284.0" y2="147.0" class="sym"/>
+<line x1="344.0" y1="140.0" x2="360.0" y2="148.0" class="sym"/>
+<line x1="344.0" y1="140.0" x2="360.0" y2="140.0" class="sym"/>
+<line x1="344.0" y1="140.0" x2="360.0" y2="132.0" class="sym"/>
+<circle cx="338.0" cy="140.0" r="5" class="circ"/>
+<line x1="598.0" y1="658.0" x2="598.0" y2="672.0" class="sym"/>
+<line x1="604.0" y1="658.0" x2="604.0" y2="672.0" class="sym"/>
+<line x1="606.0" y1="250.0" x2="590.0" y2="242.0" class="sym"/>
+<line x1="606.0" y1="250.0" x2="590.0" y2="250.0" class="sym"/>
+<line x1="606.0" y1="250.0" x2="590.0" y2="258.0" class="sym"/>
+<circle cx="612.0" cy="250.0" r="5" class="circ"/>
+<line x1="537.0" y1="286.0" x2="523.0" y2="286.0" class="sym"/>
+<line x1="537.0" y1="292.0" x2="523.0" y2="292.0" class="sym"/>
+<line x1="530.0" y1="374.0" x2="522.0" y2="390.0" class="sym"/>
+<line x1="530.0" y1="374.0" x2="530.0" y2="390.0" class="sym"/>
+<line x1="530.0" y1="374.0" x2="538.0" y2="390.0" class="sym"/>
+<circle cx="530.0" cy="368.0" r="5" class="circ"/>
+<line x1="523.0" y1="642.0" x2="537.0" y2="642.0" class="sym"/>
+<line x1="523.0" y1="636.0" x2="537.0" y2="636.0" class="sym"/>
+<line x1="530.0" y1="526.0" x2="538.0" y2="510.0" class="sym"/>
+<line x1="530.0" y1="526.0" x2="530.0" y2="510.0" class="sym"/>
+<line x1="530.0" y1="526.0" x2="522.0" y2="510.0" class="sym"/>
+<circle cx="530.0" cy="532.0" r="5" class="circ"/>
+<line x1="598.0" y1="133.0" x2="598.0" y2="147.0" class="sym"/>
+<line x1="604.0" y1="133.0" x2="604.0" y2="147.0" class="sym"/>
+<line x1="664.0" y1="140.0" x2="680.0" y2="148.0" class="sym"/>
+<line x1="664.0" y1="140.0" x2="680.0" y2="140.0" class="sym"/>
+<line x1="664.0" y1="140.0" x2="680.0" y2="132.0" class="sym"/>
+<circle cx="658.0" cy="140.0" r="5" class="circ"/>
+<line x1="918.0" y1="133.0" x2="918.0" y2="147.0" class="sym"/>
+<line x1="924.0" y1="133.0" x2="924.0" y2="147.0" class="sym"/>
+<line x1="992.0" y1="147.0" x2="992.0" y2="133.0" class="sym"/>
+<circle cx="980.0" cy="140.0" r="5" class="circ"/>
+<line x1="1238.0" y1="133.0" x2="1238.0" y2="147.0" class="sym"/>
+<line x1="1244.0" y1="133.0" x2="1244.0" y2="147.0" class="sym"/>
+<line x1="1304.0" y1="140.0" x2="1320.0" y2="148.0" class="sym"/>
+<line x1="1304.0" y1="140.0" x2="1320.0" y2="140.0" class="sym"/>
+<line x1="1304.0" y1="140.0" x2="1320.0" y2="132.0" class="sym"/>
+<circle cx="1298.0" cy="140.0" r="5" class="circ"/>
+<line x1="1558.0" y1="133.0" x2="1558.0" y2="147.0" class="sym"/>
+<line x1="1564.0" y1="133.0" x2="1564.0" y2="147.0" class="sym"/>
+<line x1="1624.0" y1="140.0" x2="1640.0" y2="148.0" class="sym"/>
+<line x1="1624.0" y1="140.0" x2="1640.0" y2="140.0" class="sym"/>
+<line x1="1624.0" y1="140.0" x2="1640.0" y2="132.0" class="sym"/>
+<circle cx="1618.0" cy="140.0" r="5" class="circ"/>
+<line x1="857.0" y1="190.0" x2="843.0" y2="190.0" class="sym"/>
+<line x1="857.0" y1="196.0" x2="843.0" y2="196.0" class="sym"/>
+<line x1="850.0" y1="374.0" x2="842.0" y2="390.0" class="sym"/>
+<line x1="850.0" y1="374.0" x2="850.0" y2="390.0" class="sym"/>
+<line x1="850.0" y1="374.0" x2="858.0" y2="390.0" class="sym"/>
+<circle cx="850.0" cy="368.0" r="5" class="circ"/>
+<line x1="598.0" y1="683.0" x2="598.0" y2="697.0" class="sym"/>
+<line x1="604.0" y1="683.0" x2="604.0" y2="697.0" class="sym"/>
+<line x1="664.0" y1="480.0" x2="680.0" y2="488.0" class="sym"/>
+<line x1="664.0" y1="480.0" x2="680.0" y2="480.0" class="sym"/>
+<line x1="664.0" y1="480.0" x2="680.0" y2="472.0" class="sym"/>
+<circle cx="658.0" cy="480.0" r="5" class="circ"/>
+<line x1="857.0" y1="518.0" x2="843.0" y2="518.0" class="sym"/>
+<line x1="857.0" y1="524.0" x2="843.0" y2="524.0" class="sym"/>
+<line x1="850.0" y1="564.0" x2="842.0" y2="580.0" class="sym"/>
+<line x1="850.0" y1="564.0" x2="850.0" y2="580.0" class="sym"/>
+<line x1="850.0" y1="564.0" x2="858.0" y2="580.0" class="sym"/>
+<circle cx="850.0" cy="558.0" r="5" class="circ"/>
+<line x1="1177.0" y1="222.0" x2="1163.0" y2="222.0" class="sym"/>
+<line x1="1177.0" y1="228.0" x2="1163.0" y2="228.0" class="sym"/>
+<line x1="1170.0" y1="374.0" x2="1162.0" y2="390.0" class="sym"/>
+<line x1="1170.0" y1="374.0" x2="1170.0" y2="390.0" class="sym"/>
+<line x1="1170.0" y1="374.0" x2="1178.0" y2="390.0" class="sym"/>
+<circle cx="1170.0" cy="368.0" r="5" class="circ"/>
+<line x1="1238.0" y1="433.0" x2="1238.0" y2="447.0" class="sym"/>
+<line x1="1244.0" y1="433.0" x2="1244.0" y2="447.0" class="sym"/>
+<line x1="1304.0" y1="440.0" x2="1320.0" y2="448.0" class="sym"/>
+<line x1="1304.0" y1="440.0" x2="1320.0" y2="440.0" class="sym"/>
+<line x1="1304.0" y1="440.0" x2="1320.0" y2="432.0" class="sym"/>
+<circle cx="1298.0" cy="440.0" r="5" class="circ"/>
+<line x1="1497.0" y1="238.0" x2="1483.0" y2="238.0" class="sym"/>
+<line x1="1497.0" y1="244.0" x2="1483.0" y2="244.0" class="sym"/>
+<line x1="1490.0" y1="374.0" x2="1482.0" y2="390.0" class="sym"/>
+<line x1="1490.0" y1="374.0" x2="1490.0" y2="390.0" class="sym"/>
+<line x1="1490.0" y1="374.0" x2="1498.0" y2="390.0" class="sym"/>
+<circle cx="1490.0" cy="368.0" r="5" class="circ"/>
+<line x1="1762.0" y1="206.0" x2="1748.0" y2="206.0" class="sym"/>
+<circle cx="1755.0" cy="218.0" r="5" class="circ"/>
+<line x1="1566.0" y1="465.0" x2="1550.0" y2="457.0" class="sym"/>
+<line x1="1566.0" y1="465.0" x2="1550.0" y2="465.0" class="sym"/>
+<line x1="1566.0" y1="465.0" x2="1550.0" y2="473.0" class="sym"/>
+<circle cx="1572.0" cy="465.0" r="5" class="circ"/>
+<line x1="453.0" y1="642.0" x2="467.0" y2="642.0" class="sym"/>
+<line x1="453.0" y1="636.0" x2="467.0" y2="636.0" class="sym"/>
+<line x1="155.0" y1="542.0" x2="163.0" y2="526.0" class="sym"/>
+<line x1="155.0" y1="542.0" x2="155.0" y2="526.0" class="sym"/>
+<line x1="155.0" y1="542.0" x2="147.0" y2="526.0" class="sym"/>
+<circle cx="155.0" cy="548.0" r="5" class="circ"/>
+<line x1="352.0" y1="252.0" x2="352.0" y2="238.0" class="sym"/>
+<circle cx="340.0" cy="245.0" r="5" class="circ"/>
+<line x1="210.0" y1="374.0" x2="202.0" y2="390.0" class="sym"/>
+<line x1="210.0" y1="374.0" x2="210.0" y2="390.0" class="sym"/>
+<line x1="210.0" y1="374.0" x2="218.0" y2="390.0" class="sym"/>
+<circle cx="210.0" cy="368.0" r="5" class="circ"/>
+<line x1="427.0" y1="794.0" x2="413.0" y2="794.0" class="sym"/>
+<line x1="427.0" y1="800.0" x2="413.0" y2="800.0" class="sym"/>
+<line x1="210.0" y1="894.0" x2="202.0" y2="910.0" class="sym"/>
+<line x1="210.0" y1="894.0" x2="210.0" y2="910.0" class="sym"/>
+<line x1="210.0" y1="894.0" x2="218.0" y2="910.0" class="sym"/>
+<circle cx="210.0" cy="888.0" r="5" class="circ"/>
+<line x1="1558.0" y1="938.0" x2="1558.0" y2="952.0" class="sym"/>
+<line x1="1564.0" y1="938.0" x2="1564.0" y2="952.0" class="sym"/>
+<line x1="1624.0" y1="945.0" x2="1640.0" y2="953.0" class="sym"/>
+<line x1="1624.0" y1="945.0" x2="1640.0" y2="945.0" class="sym"/>
+<line x1="1624.0" y1="945.0" x2="1640.0" y2="937.0" class="sym"/>
+<circle cx="1618.0" cy="945.0" r="5" class="circ"/>
+<line x1="598.0" y1="733.0" x2="598.0" y2="747.0" class="sym"/>
+<line x1="604.0" y1="733.0" x2="604.0" y2="747.0" class="sym"/>
+<line x1="1835.0" y1="894.0" x2="1827.0" y2="910.0" class="sym"/>
+<line x1="1835.0" y1="894.0" x2="1835.0" y2="910.0" class="sym"/>
+<line x1="1835.0" y1="894.0" x2="1843.0" y2="910.0" class="sym"/>
+<circle cx="1835.0" cy="888.0" r="5" class="circ"/>
+<line x1="1312.0" y1="952.0" x2="1312.0" y2="938.0" class="sym"/>
+<line x1="1306.0" y1="952.0" x2="1306.0" y2="938.0" class="sym"/>
+<line x1="1246.0" y1="945.0" x2="1230.0" y2="937.0" class="sym"/>
+<line x1="1246.0" y1="945.0" x2="1230.0" y2="945.0" class="sym"/>
+<line x1="1246.0" y1="945.0" x2="1230.0" y2="953.0" class="sym"/>
+<circle cx="1252.0" cy="945.0" r="5" class="circ"/>
+<line x1="598.0" y1="758.0" x2="598.0" y2="772.0" class="sym"/>
+<line x1="604.0" y1="758.0" x2="604.0" y2="772.0" class="sym"/>
+<line x1="1170.0" y1="894.0" x2="1162.0" y2="910.0" class="sym"/>
+<line x1="1170.0" y1="894.0" x2="1170.0" y2="910.0" class="sym"/>
+<line x1="1170.0" y1="894.0" x2="1178.0" y2="910.0" class="sym"/>
+<circle cx="1170.0" cy="888.0" r="5" class="circ"/>
+<line x1="577.0" y1="794.0" x2="563.0" y2="794.0" class="sym"/>
+<line x1="577.0" y1="800.0" x2="563.0" y2="800.0" class="sym"/>
+<line x1="570.0" y1="894.0" x2="562.0" y2="910.0" class="sym"/>
+<line x1="570.0" y1="894.0" x2="570.0" y2="910.0" class="sym"/>
+<line x1="570.0" y1="894.0" x2="578.0" y2="910.0" class="sym"/>
+<circle cx="570.0" cy="888.0" r="5" class="circ"/>
+<line x1="598.0" y1="938.0" x2="598.0" y2="952.0" class="sym"/>
+<line x1="604.0" y1="938.0" x2="604.0" y2="952.0" class="sym"/>
+<line x1="664.0" y1="945.0" x2="680.0" y2="953.0" class="sym"/>
+<line x1="664.0" y1="945.0" x2="680.0" y2="945.0" class="sym"/>
+<line x1="664.0" y1="945.0" x2="680.0" y2="937.0" class="sym"/>
+<circle cx="658.0" cy="945.0" r="5" class="circ"/>
+<text x="1000" y="585" class="ent">LEGENDA — Notação IE (Information Engineering)</text>
+<rect x="1000" y="590" width="470" height="128" class="leg"/>
+<line x1="1020" y1="612" x2="1090" y2="612" class="rel"/>
+<line x1="1020" y1="602" x2="1020" y2="622" class="sym"/>
+<line x1="1028.0" y1="605.0" x2="1028.0" y2="619.0" class="sym"/>
+<line x1="1034.0" y1="605.0" x2="1034.0" y2="619.0" class="sym"/>
+<text x="1105" y="616" class="att">Exatamente um (FK obrigatória)</text>
+<line x1="1020" y1="636" x2="1090" y2="636" class="rel"/>
+<line x1="1020" y1="626" x2="1020" y2="646" class="sym"/>
+<line x1="1028.0" y1="629.0" x2="1028.0" y2="643.0" class="sym"/>
+<circle cx="1040.0" cy="636.0" r="5" class="circ"/>
+<text x="1105" y="640" class="att">Zero ou um (FK opcional / relação 1:1)</text>
+<line x1="1020" y1="660" x2="1090" y2="660" class="rel"/>
+<line x1="1020" y1="650" x2="1020" y2="670" class="sym"/>
+<line x1="1036.0" y1="660.0" x2="1020.0" y2="652.0" class="sym"/>
+<line x1="1036.0" y1="660.0" x2="1020.0" y2="660.0" class="sym"/>
+<line x1="1036.0" y1="660.0" x2="1020.0" y2="668.0" class="sym"/>
+<circle cx="1042.0" cy="660.0" r="5" class="circ"/>
+<text x="1105" y="664" class="att">Zero ou muitos</text>
+<text x="1020" y="684" class="att">Linha tracejada = relacionamento não identificador</text>
+<text x="1020" y="700" class="att">Acima do traço interno = chave primária (PK) · (FK) = chave estrangeira</text>
+</svg>
